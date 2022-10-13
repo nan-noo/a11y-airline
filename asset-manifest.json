@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/a11y-airline/static/css/main.29e3b4aa.css",
-    "main.js": "/a11y-airline/static/js/main.0b3a12bf.js",
+    "main.css": "/a11y-airline/static/css/main.c5d04a2f.css",
+    "main.js": "/a11y-airline/static/js/main.48818c0f.js",
     "index.html": "/a11y-airline/index.html",
-    "main.29e3b4aa.css.map": "/a11y-airline/static/css/main.29e3b4aa.css.map",
-    "main.0b3a12bf.js.map": "/a11y-airline/static/js/main.0b3a12bf.js.map"
+    "main.c5d04a2f.css.map": "/a11y-airline/static/css/main.c5d04a2f.css.map",
+    "main.48818c0f.js.map": "/a11y-airline/static/js/main.48818c0f.js.map"
   },
   "entrypoints": [
-    "static/css/main.29e3b4aa.css",
-    "static/js/main.0b3a12bf.js"
+    "static/css/main.c5d04a2f.css",
+    "static/js/main.48818c0f.js"
   ]
 }
